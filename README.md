@@ -1,12 +1,19 @@
 # Pages Needed
 
 Bookkeeping
+
 Company Bio
+
 Team Bio
+
 Events
+
 Contact
+
 Media - links
+
 Media- imbedded 
+
 Donations
 
 
